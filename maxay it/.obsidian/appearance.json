@@ -1,0 +1,7 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blackbird",
+  "enabledCssSnippets": [
+    "git-style"
+  ]
+}
